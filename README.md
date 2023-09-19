@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bugzboni
+- 👋 Hi, I’m Boni Milinganyo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on mini programs
