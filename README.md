@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Boni Milinganyo
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software development
-- 💞️ I’m looking to collaborate on mini programs
-- 📫 How to reach me: Snapchat Boniakaking
+- 👀 Strong interest in Web Development
+- 🌱 I’m currently learning AWS
+- 💞️ looking to collaborate on mini Websites
+- 📫 How to reach me: LinkedIn Boni Milinganyo
 
 <!---
 bugzboni/bugzboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
